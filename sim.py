@@ -2,6 +2,8 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
+# https://twitter.com/madnoda/status/1437361820176568320?s=20
+
 # 1000人に対して1万円の受け渡しを1000回行う
 def shuffle(array):
     for x in range(1000):
